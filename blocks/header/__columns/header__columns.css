@@ -1,6 +1,6 @@
 .header__columns {
     max-width: 1184px;
-    margin: 28px auto 0;
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     align-self: flex-end;
@@ -17,7 +17,6 @@
 @media screen and (max-width: 1023px){
     .header__columns {
         max-width: 720px;
-        margin: 16px auto 0;
     }
 }
 
