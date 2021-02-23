@@ -1,0 +1,29 @@
+.header__columns {
+    max-width: 1184px;
+    margin: 28px auto 0;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    justify-content: space-between;
+    padding-top: 28px;
+}
+
+@media screen and (max-width: 1279px){
+    .header__columns {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 1023px){
+    .header__columns {
+        max-width: 720px;
+        margin: 16px auto 0;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .header__columns {
+        max-width: 288px;
+        padding-top: 16px;
+    }
+}

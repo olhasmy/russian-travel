@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34d74bf9-9d21-4113-8396-19add9cb2763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__columns/header__columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link_active/header__lang-link_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__container/intro__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__illustration/lead__illustration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__img/lead__img.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/__container/page__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__items/photo-grid__items.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__url/place__url.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__item/places__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ot9LlmTsig8vxClRUiiAqojiv1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d74bf9-9d21-4113-8396-19add9cb2763" name="Default Changelist" comment="" />
+      <created>1614094992738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614094992738</updated>
+      <workItem from="1614095018627" duration="152000" />
+      <workItem from="1614095192768" duration="6019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
