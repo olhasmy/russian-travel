@@ -1,6 +1,21 @@
 .places__item {
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 80px;
+    padding: 92px 0;
+}
+
+@media screen and (max-width: 1023px){
+    .places__item {
+        gap: 73px;
+        padding: 88px 0;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .places__item {
+        gap: 50px;
+        padding: 64px 0;
+    }
 }
