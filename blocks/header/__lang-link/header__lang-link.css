@@ -5,7 +5,6 @@
     color: #ffffff;
     text-decoration: none;
     transition: opacity 0.3s linear;
-    border: 1px solid red;
 }
 
 .header__lang-link:hover {
