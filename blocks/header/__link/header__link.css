@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__link {
     font-size: 24px;
     line-height: 28px;
     margin-left: 18px;
@@ -7,12 +7,12 @@
     transition: opacity 0.3s linear;
 }
 
-.header__lang-link:hover {
+.header__link:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 767px){
-    .header__lang-link {
+    .header__link {
         font-size: 18px;
         line-height: 20px;
     }
