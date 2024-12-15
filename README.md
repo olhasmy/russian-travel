@@ -13,7 +13,7 @@
 - [Ссылка на Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
 
 С готовой проектной работой Вы можете ознакомиться по ссылке: 
-- [Ссылка на проект "Путешествие по России"](https://gonzoooo.github.io/russian-travel/)
+- [Ссылка на проект "Путешествие по России"](https://olhasmy.github.io/russian-travel/)
 
 
 Для развертывания проекта необходимо:
